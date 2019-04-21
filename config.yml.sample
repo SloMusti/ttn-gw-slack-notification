@@ -1,0 +1,7 @@
+gw:
+- <your_gw_1>
+- <your_gw_2>
+
+slack:
+  channel: <your channel>
+  token: <xoxb-slack-key>
