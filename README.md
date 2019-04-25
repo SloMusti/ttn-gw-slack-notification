@@ -3,7 +3,7 @@ Very simple and crude bot for monitoring TheThingsNetwork gateways via Slack cha
  * responds to commands when directly mentioned @ttnbot (or similar as you configure)
    * `status` - replies with stauts of all gateways
    * `add` - adds a gateway
-   * `remvoe` - removes the gateway
+   * `remove` - removes the gateway
  * Send automated message when gateways going online and offline 
 
 Theory of operation is rather simple. There is a file `config.yml` consisting of Slack credentials and a list of gateways to be monitored. 
